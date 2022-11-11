@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**SpyrossS3/SpyrossS3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 I’m @SpyrossS3, but I go by Spyro, and my actual name is Camille R. 🎊 And I’m interested in Computer Programming, specifically working with Python and Data Science,
+as well as developing any random idea that pops in my head as good practice and experimentation!
+- Female | She/Her
+- 📔 I’m currently studying for my BS in Computer Science, on my fourth year now, even though credit-wise I'm still a sophomore since switching majors from Computer Eng.
+- 📫 You can reach me at my email posted in my profile, other links on my Carrd.co also found on my profile page, or start a thread in my Discussions for this repo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+SpyrossS3/SpyrossS3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
